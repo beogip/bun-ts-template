@@ -2,6 +2,7 @@
   "name": "bun-ts-template",
   "version": "0.0.0",
   "description": "Minimal TypeScript starter template for Bun",
+  "license": "Apache-2.0",
   "type": "module",
   "scripts": {
     "dev": "bun run --watch src/index.ts",
